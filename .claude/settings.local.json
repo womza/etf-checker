@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -)",
+      "Bash(grep -n '\\\\$\\\\|as of\\\\|NOT_VERIF\\\\|Status' REQ-001-etf-result-line.md)"
+    ]
+  }
+}

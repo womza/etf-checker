@@ -1,0 +1,9 @@
+# Environment
+.venv/
+.env
+__pycache__/
+*.pyc
+
+# Generated reports
+reports/*
+!reports/.gitkeep
