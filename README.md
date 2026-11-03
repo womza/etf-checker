@@ -1,4 +1,4 @@
-# Simplify ETF Checker
+# ETF Checker
 
 Python CLI tool that checks and validates, on a daily basis, the information of the ETFs published
 on the provider's ETF listing page (configured via `BASE_URL`): NAV, Market Price, Portfolio Duration, holdings count and update dates.
